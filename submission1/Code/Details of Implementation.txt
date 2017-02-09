@@ -1,0 +1,14 @@
+Input:-
+	File Name: lift.avi
+	Random Error: 0 to 30
+	Threshold or delta: 1e-9
+
+Output:-
+	Iterations: 1000	
+	Error: 0.000005	 
+	rank(L): 1	
+	cardinality(S): 1788254
+	Convergence Time: 233.31 seconds
+
+Note:- Adding random errors is a simulation of the noisy or corrupted camera recording. So keeping Threshold or delta 
+       = 1e-9 recovers good Low rank matrix.
