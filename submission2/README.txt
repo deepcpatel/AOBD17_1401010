@@ -1,10 +1,7 @@
 1) EM.m
 This is the user defined function for Expectation Maximisation
 
-2)EM_Test.m
-This is a simple testing script for regenerating an image matrix using the EM Algorithm (EM.m)
-
-2)EM_Test.m
+2)EM_Test_Corrupted.m
 This is a simple testing script for regenerating a corrupted image matrix using the EM Algorithm (EM.m)
 
 3)EM_Missing.m
