@@ -25,7 +25,7 @@ NOTE: PPCA.m and PPCA_Test.m are initial scripts, the final ones are the EM scri
 This is the user defined function for Robust PCA
 
 8)RPCA_Corrupted.m
-This is a simple test script for regenerating an image with corrupted entries using RPCA.m
+This is a simple test script for regenerating an image with corrupted entries using RPCA.
 
 8)RPCA_Missing.m
-This is a simple test script for regenerating an image with missing entries using RPCA.m
+This is a simple test script for regenerating an image with missing entries using RPCA.
