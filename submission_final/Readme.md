@@ -12,3 +12,5 @@
     -> https://arxiv.org/abs/1406.2661 : GAN Paper by I.Goodfellow et. al.
     
     -> http://cs231n.github.io/convolutional-networks/
+    
+    -> http://www.di.ens.fr/~fbach/courses/fall2010/Bishop_Tipping_1999_Probabilistic_PCA.pdf : PPCA Paper by C. Bishop et. al.
