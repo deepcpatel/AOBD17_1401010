@@ -6,6 +6,9 @@
     implemented and their results.
     
 3). References for the Project:-
+
     -> http://bamos.github.io/2016/08/09/deep-completion/
+    
     -> https://arxiv.org/abs/1406.2661 : GAN Paper by I.Goodfellow et. al.
+    
     -> http://cs231n.github.io/convolutional-networks/
